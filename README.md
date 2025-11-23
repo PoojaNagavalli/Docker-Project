@@ -49,7 +49,7 @@ cd docker-nginx-website
 2. Build and start the application:
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 3. Open your browser and visit:
